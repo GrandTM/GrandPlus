@@ -1,10 +1,3 @@
-    <a href="https://telegram.me/pythonscript_Robot">
-        <img src="http://upir.ir/951/guest/Untitled-5.png" hspace="10" width="150">
-    </a>
-    <a href="https://telegram.me/GrandTeam">
-        <img src="http://upir.ir/951/guest/Untitled-7.png" hspace="10" width="150">
-    </a>
-    <a href="https://telegram.me/pythonscript">
-        <img src="http://upir.ir/951/guest/Untitled-6.png" width="150">
-    </a>
-</div> 
+<p align="center"> <img src="http://icons.iconarchive.com/icons/3xhumed/mega-games-pack-35/512/NFSShift-logo-2-icon.png" width="512">
+<h1><p align="center">NFS-Bot
+<h1><p align="center">We are best =| 
