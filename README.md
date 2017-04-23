@@ -10,11 +10,17 @@
 
 * * *
 cd $HOME
+
 git clone https://github.com/GrandTM/GrandPlus.git
+
 cd GrandPlus
+
 chmod +x launch.sh
+
 ./launch.sh install
+
 ./launch.sh 
+
 # Enter a phone number | confirmation code.
 
 * * *
